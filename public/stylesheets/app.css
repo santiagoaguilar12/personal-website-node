@@ -107,7 +107,7 @@ a .icons:hover{
   .cloud{
     width: 85%;
     height: auto;
-    
+    display: block;
     
   }
 
